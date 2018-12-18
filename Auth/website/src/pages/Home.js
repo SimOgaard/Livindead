@@ -96,7 +96,7 @@ const QuoteSection = () => (
         <div className="quote">
           “My computer got locked out but i used this app and got to my school in under 1/100 of a second, g-force my horse”
         </div>
-        <div className="quoter">- Satisfied Wild Rydes User</div>
+        <div className="quoter">- Unsatisfied Wild Rydes User</div>
       </div>
     </div>
   </section>
