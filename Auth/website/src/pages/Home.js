@@ -63,7 +63,7 @@ const StorySection = () => (
     <div className="row column large-9 xlarge-6 xxlarge-4">
       <h2 className="section-title">Our Story</h2>
       <p className="content">
-        Wild Rydes was started by a former hedge fund analyst and a software developer. The two long-time friends happened upon the Wild Rydes idea after attending a silent yoga retreat in Nevada. After gazing upon the majestic herds of unicorns prancing across a surreal Nevada sunset, they witnessed firsthand the poverty and unemployment endemic to that once proud race. Whether it was modern society’s reliance on science over magic or not, we’ll never know the cause of their Ozymandian downfall and fade to obscurity. Moved by empathy, romance, and free enterprise, they saw an opportunity to marry society’s demand for faster, more flexible transportation to underutilized beasts of labor through an on-demand market making transportation app. Using the founders’ respective expertise in animal husbandry and software engineering, Wild Rydes was formed and has since raised untold amounts of venture capital. Today, Wild Rydes has thousands of unicorns in its network fulfilling hundreds of rydes each day.
+        Wild Rydes was started by two former abb student whom was "forced" to go to expectrum and make the application, their dreams of making the LivinDead got shatterd since some things did not go their ways. Now they will preform infront of the judge awatening their doom of bronze.
       </p>
     </div>
   </section>
