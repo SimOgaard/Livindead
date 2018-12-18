@@ -94,7 +94,7 @@ const QuoteSection = () => (
     <div className="row column medium-8 xxlarge-6">
       <div className="quote-wrap">
         <div className="quote">
-          “I was almost late to my ultimate frisbee tournament in DOLORES park. BUt Wild Rydes Got me there from the marina in under five minutes.”
+          “My computer got locked out but i used this app and got to my school in under 1/100 of a second, g-force my horse”
         </div>
         <div className="quoter">- Satisfied Wild Rydes User</div>
       </div>
@@ -109,9 +109,9 @@ const KrakenSection = () => (
         <DynamicImage src="wr-home-kraken.png"/>
       </div>
       <div className="columns medium-6 xlarge-5 xxlarge-4">
-        <h4 className="title">Coming Soon</h4>
+        <h4 className="title">Coming Soon, LivinDead</h4>
         <p className="content">
-          Kraken 3xplorer and Dragon Flyght. We’re looking to provide you a full service package from air, land, and to sea.
+          LivinDead is a new work in progress, unfortunatly we ran into trubbel so we had to do this shit
         </p>
       </div>
     </div>
